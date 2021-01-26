@@ -1,5 +1,5 @@
 # C-DSA-Library
-This is a standard-template-library created for C99. It includes commonly used data structures and algorithms. 
+This is a standard-template-library created for C99. It includes commonly used data structures and algorithms. Leave a ⭐ if this helps you :)
 
 How can you contribute?
  - Help in documentations is always appreciated :)
